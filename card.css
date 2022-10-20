@@ -5,7 +5,7 @@
 }
 
 .menu-card {
-    border: 1px solid rgb(183, 45, 45);
+    border: 1.5px solid rgb(244, 24, 24);
     width: 400px;
     height: 300px;
     margin: 0 auto;
@@ -35,13 +35,13 @@
 
 .content {
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 0%;
     transform: translate(-50%, 50%);
-    background: linear-gradient(to right, rgb(239, 235, 14), rgb(221, 201, 201), green);
+    background: linear-gradient(to right, rgb(247, 243, 53), rgb(221, 201, 201), rgb(37, 206, 37));
     border: 1px 10px;
     padding: 5px;
-    border-radius: 5px;
+    border-radius: 9px;
     opacity: 0;
     transition: all 0.3s ease;
 
